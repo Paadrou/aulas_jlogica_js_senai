@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    align-items: center;
+    gap:5px;
+    justify-content: center;
+    height: 700px;
+}
+
+button{
+    border: #045211 solid 1px;
+    border-radius: 20px;
+    background: #ac17da;
+    color: #FFF;
+    padding: 5px 10px;
+}
